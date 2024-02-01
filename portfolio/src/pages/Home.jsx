@@ -19,7 +19,7 @@ function Home() {
                         Driven by a relentless pursuit of excellence, I draw inspiration from the ever-evolving landscape of web development. Armed with a solid foundation and continuous learning mindset, I have honed my skills through a comprehensive edx web development certification program. This journey has equipped me with the latest industry trends, best practices, and cutting-edge technologies.
                         <br />
                         <br />
-                        Seeking opportunities in the fields of Web Development and Testing. Please review my CV <a href='portfolio\src\assets\MA_CV (1).pdf' target="_blank" rel="noopener noreferrer">here</a>.
+                        Seeking opportunities in the fields of Web Development and Testing. Please review my CV <a href="./assets/MA_CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
                     </h5>
                 </div>
             </div>
