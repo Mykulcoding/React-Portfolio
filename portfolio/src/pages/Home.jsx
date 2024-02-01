@@ -1,15 +1,13 @@
 // Importing custom styles for the Home page
 import './PageStyles.css';
 
-import headshotImage from '../asset/headshot.jpg';
-
 // Functional component for the Home page
 function Home() {
     return (
         <div className='background min-vh-100 pb-5 m-0'>
             <div className='row g-0 p-5 align-items-center'>
                 <div className='col col-lg-4 p-4'>
-                <img src={headshotImage} alt='Profile Picture' className='img-fluid' />
+                <img src='./assets/headshot.jpg' alt='Profile Picture' className='img-fluid' />
                 </div>
 
                 <div className='col col-lg-7'>
