@@ -1,15 +1,11 @@
-/* Styling for the background */
-.background {
+/* Set the font for the entire body */
+body {
+    font-family: 'Your Preferred Font', sans-serif;
     background-image: url('/assets/backgound_image.jpg'); /* Set the background image */
     background-size: cover; /* Ensure the background image covers the entire container */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Do not repeat the background image */
     background-color: rgba(7, 1, 19, 0.507); /* Set a semi-transparent background color */
-}
-
-/* Set the font for the entire body */
-body {
-    font-family: 'Your Preferred Font', sans-serif;
 }
 
 /* Styling for heading level 2 */
