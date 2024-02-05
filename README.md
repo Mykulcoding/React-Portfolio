@@ -36,24 +36,20 @@ https://mykulcoding.github.io/React-Portfolio/
 
 Clone the repository:
 
-   ```bash
    git clone https://github.com/Mykulcoding/React-Portfolio
 
 Navigate to the project directory:
 
-```bash
    cd react-portfolio
 
 Install dependencies:
 
-```bash
    npm install
    
 
 ## Usage
 1. Start the development server:
 
-```bash
    npm run dev
 
 2. Open the browser
